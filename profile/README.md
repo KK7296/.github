@@ -3,7 +3,7 @@
 
 <p align="justify"> <strong>Language</strong> </p>
 
-> [**Python**](https://www.python.org/) | **SQL** | **DAX**
+> [**Python**](https://www.python.org/) | **SQL** 
   
 <p align="justify"> <strong>Libraries</strong> </p>
 
