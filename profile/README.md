@@ -11,7 +11,7 @@
 
 <p align="justify"> <strong>Business Intelligence Tools</strong> </p>
 
-> [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) | [**Google Data Studio**](https://datastudio.google.com/) | [**Data Analysis Expressions**](https://docs.microsoft.com/en-us/dax/) | [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel) | Excel Analytics | **Power Pivot** | **Power Query**.
+> [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) | [**Google Data Studio**](https://datastudio.google.com/) | [**DAX**](https://docs.microsoft.com/en-us/dax/) | **Tableau** | [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel) | Excel Analytics | **Power Pivot** | **Power Query**.
 
 <p align="justify"> <strong>Environment</strong> </p>
 
