@@ -1,8 +1,6 @@
 <p align="center">🤖 <strong>Data Science</strong> | <strong>Business Intelligence</strong> | <strong>Artificial Intelligence</strong> |  <strong>Productivity</strong></p>  
 <p align="center">💻 <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Data Visualization</strong></p>
 
-<h3 name="data-science" align="center">Data Science 🤖</h3>
-
 <p align="justify"> <strong>Language</strong> </p>
 
 > [**Python**](https://www.python.org/) | **SQL** | **DAX**
@@ -26,7 +24,5 @@
 <p align="justify"> <strong>RDBMS</strong> </p>
 
 > MySQL Work Bench | PostgreSQL | Microsoft Access | [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
-
----
 
 <P name="name" align="center"><h5 align="center">Learn, Implement and Share</h5></p>
