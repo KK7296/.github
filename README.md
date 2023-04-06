@@ -52,7 +52,4 @@
 
 ---
 
-<p align="center">
-  <img src="Image/Smile.gif" alt="Kirankumar" width="10%">
-</p>
 <P name="name" align="center"><h5 align="center">Learn, Implement and Share</h5></p>
