@@ -1,4 +1,4 @@
-<p align="center">🤖 <strong>Data Science</strong> | <strong>Business Intelligence</strong> | <strong>Artificial Intelligence</strong> | | <strong>Productivity</strong></p>  
+<p align="center">🤖 <strong>Data Science</strong> | <strong>Business Intelligence</strong> | <strong>Artificial Intelligence</strong> |  <strong>Productivity</strong></p>  
 <p align="center">💻 <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Data Visualization</strong></p>
 
 <h3 name="data-science" align="center">Data Science 🤖</h3>
